@@ -1,6 +1,6 @@
 # Table of contents
 
-* [⚡ Welcome to LC Scripts](README.md)
+* [📜 Welcome to LC Scripts](README.md)
 
 ## Overview
 
