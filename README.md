@@ -1,4 +1,4 @@
-# ⚡ Welcome to LC Scripts
+# 📜 Welcome to LC Scripts
 
 {% hint style="warning" %}
 Disclaimer: This documentation is not complete and up to date.
