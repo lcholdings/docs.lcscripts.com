@@ -1,0 +1,60 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "LC Scripts",
+  "logo": {
+    "dark": "/logo/dark.png",
+    "light": "/logo/light.png"
+  },
+  "favicon": "/favicon.png",
+  "colors": {
+    "primary": "#00BFFF",
+    "light": "#87CEEB",
+    "dark": "#00CED1",
+    "anchors": {
+      "from": "#00BFFF",
+      "to": "#87CEEB"
+    }
+  },
+  "topbarLinks": [
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/aVBgypZYus"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Store",
+    "url": "https://lcscripts.com"
+  },
+  "tabs": [],
+  "anchors": [
+    {
+      "name": "Documentation",
+      "icon": "book-open-cover",
+      "url": "https://docs.lcscripts.com"
+    },
+    {
+      "name": "Community",
+      "icon": "discord",
+      "url": "https://discord.gg/aVBgypZYus"
+    },
+    {
+      "name": "Store",
+      "icon": "cart-shopping",
+      "url": "https://lcscripts.com"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Information",
+      "pages": ["summary", "welcome", "introduction"]
+    },
+    {
+      "group": "Scripts",
+      "pages": ["scripts/pos"]
+    }
+  ],
+  "footerSocials": {
+    "discord": "https://discord.gg/aVBgypZYus",
+    "github": "https://github.com/lcholdings"
+  }
+}
