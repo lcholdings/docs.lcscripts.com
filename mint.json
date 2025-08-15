@@ -28,11 +28,6 @@
   "tabs": [],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://docs.lcscripts.com"
-    },
-    {
       "name": "Community",
       "icon": "discord",
       "url": "https://discord.gg/aVBgypZYus"
